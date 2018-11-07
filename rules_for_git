@@ -1,0 +1,9 @@
+step1 - create/modify a file
+step2 - git add to current version
+step3 - repeat until all files are added (for all use git add -A)
+step4 - git commit to create a version
+step5 - git fetch to get new vision of online status
+step6 - git status to see what might have changed in-between
+step7 - git push 
+
+
